@@ -134,5 +134,5 @@ Use freely and modify for your needs.
 
 ## ✍️ Author
 
-Built by [@iftachshalev](https://github.com/iftachshalev)
+Built by [@iftachshalev](https://github.com/iftachshalev), [@nadavshalev](https://github.com/nadavshalev)
 ```
